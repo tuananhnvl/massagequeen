@@ -194,7 +194,7 @@ export default function Modal() {
                                                     <li >
                                                         <span className="small-title">Vé VIP</span>
                                                         <span className="float-right small-info">
-                                                            <span className="green">500K</span><span>/70 phút</span>
+                                                            <span className="green">600K</span><span>/70 phút</span>
                                                         </span>
                                                     </li>
                                                   {/*   <li >

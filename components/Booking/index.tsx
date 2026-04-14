@@ -144,35 +144,30 @@ export default function Booking() {
                                         <li >
                                             <span className="small-title">Vé VIP</span>
                                             <span className="float-right small-info">
-                                                <span className="green">590K</span><span>/70 phút</span>
+                                                <span className="green">600K</span><span>/70 phút</span>
                                             </span>
                                         </li>
+                                    
                                         <li >
-                                            <span className="small-title">Vé SUPER 01</span>
+                                            <span className="small-title">Vé VIP NURU 1</span>
                                             <span className="float-right small-info">
-                                                <span className="green">800K</span><span>/80 phút</span>
-                                            </span>
-                                        </li>
-                                        <li >
-                                            <span className="small-title">Vé SUPER 02</span>
-                                            <span className="float-right small-info">
-                                                <span className="green">1.000K</span><span>/90 phút</span>
+                                                <span className="green">1.100K</span><span>/90 phút</span>
                                             </span>
                                         </li>
                                         <li>
-                                            <span className="small-title">Vé SUPER 03</span>
+                                            <span className="small-title">Vé VIP NURU 2</span>
                                             <span className="float-right small-info">
-                                                <span className="green">1.200K</span><span>/100 phút</span>
+                                                <span className="green">1.300K</span><span>/100 phút</span>
                                             </span>
                                         </li>
                                         <li >
-                                            <span className="small-title">Vé SUPER 04</span>
+                                            <span className="small-title">Vé VIP QUEEN</span>
                                             <span className="float-right small-info">
-                                                <span className="green">1.500K</span><span>/120 phút</span>
+                                                <span className="green">1.600K</span><span>/120 phút</span>
                                             </span>
                                         </li>
                                         <li >
-                                            <span className="small-title">Vé QUEEN</span>
+                                            <span className="small-title">Vé VVIP QUEEN</span>
                                             <span className="float-right small-info">
                                                 <span className="green">2.000K</span><span>/140 phút</span>
                                             </span>
