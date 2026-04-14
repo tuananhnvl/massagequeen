@@ -41,7 +41,7 @@ export const listService: Record<string, Service> = {
             "Bj 1 short 💦",
         ],
         time: 70,
-        price: "500,000 VND",
+        price: "600,000 VND",
         note: "Giá vé chưa bao gồm tiền tip, tiền tip được quy định tối thiểu bằng tiền vé.",
         para: [
             "Người ta thường nói “cơ thể con người là một ngôi đền bí ẩn cần được khám phá”. Vậy thì hôm nay, với dịch vụ Massage Vip – Massage chuẩn phái mạnh của Hoa Kiều - sẽ giúp các chàng khám phá các “bí mật” ẩn sâu bên trong “ngôi đền” của chính mình.",
@@ -67,7 +67,7 @@ export const listService: Record<string, Service> = {
             "Thư giãn trong bồn tắm hoặc giường 1 lần 💦"
         ],
         time: 90,
-        price: "1,000,000 VND",
+        price: "1,100,000 VND",
         note: "Giá vé chưa bao gồm tiền tip, tiền tip được quy định tối thiểu bằng tiền vé.",
         para: [
             'Ai mà chẳng muốn một lần làm bậc Đế Vương, được yêu chiều cung phụng? Thế thì hôm nay, Massage Queen vừa hay cho ra đời gói Massage King - phục vụ những "ông hoàng" trên ngôi báu.',
@@ -89,7 +89,7 @@ export const listService: Record<string, Service> = {
             "Thư giản 69, wc, cia 1 lần bồn tắm 1 lần trên phao hoặc giường (2 lần thư giãn 💦💦1 lần bồn tắm 1 lần trên phao hoặc giường )",
         ],
         time: 100,
-        price: "1,200,000 VND",
+        price: "1,300,000 VND",
         note: "Giá vé chưa bao gồm tiền tip, tiền tip được quy định tối thiểu bằng tiền vé.",
         para: [
             'Ai mà chẳng muốn một lần làm bậc Đế Vương, được yêu chiều cung phụng? Thế thì hôm nay, Massage Queen vừa hay cho ra đời gói Massage King - phục vụ những "ông hoàng" trên ngôi báu.',
@@ -113,7 +113,7 @@ export const listService: Record<string, Service> = {
             "🎗️Tip 1500k 🎗️"
         ],
         time: 120,
-        price: "1,500,000 VND",
+        price: "1,600,000 VND",
         note: "Giá vé chưa bao gồm tiền tip, tiền tip được quy định tối thiểu bằng tiền vé.",
         para: [
             'Massage Super Vip - liệu pháp “đắt hàng” nhất tại Massage Queen Spa - các chàng đã thử? Nếu chưa thử thì thật phí mất công đến Massage Queen. Bởi tại gói dịch vụ độc đáo này, chúng tôi có massage lingam - massage “yêu chiều” quyền trượng ánh sáng của chàng hiếm có khó tìm.',
